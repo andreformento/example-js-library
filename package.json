@@ -1,0 +1,30 @@
+{
+  "name": "@andreformento/example-js-library",
+  "version": "0.0.2",
+  "description": "Just an example of Javascript library with automated publish",
+  "main": "src/filterByTerm.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreformento/example-js-library.git"
+  },
+  "keywords": [
+    "client",
+    "javascript",
+    "js"
+  ],
+  "author": "André Formento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreformento/example-js-library/issues"
+  },
+  "homepage": "https://github.com/andreformento/example-js-library#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "jest": {
+    "collectCoverage": true
+  }
+}
