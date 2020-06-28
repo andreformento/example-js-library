@@ -1,6 +1,6 @@
 {
   "name": "@andreformento/example-js-library",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Just an example of Javascript library with automated publish",
   "main": "src/filterByTerm.js",
   "scripts": {
